@@ -142,7 +142,7 @@ The goal of the project is understanding and experimentation rather than product
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/mini-gpt-from-scratch.git
+git clone https://github.com/Kego001/mini-gpt-from-scratch.git
 cd mini-gpt-from-scratch
 ```
 
