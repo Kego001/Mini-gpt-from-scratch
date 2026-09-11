@@ -204,6 +204,4 @@ Possible next steps include:
 
 ## Why I Built It
 
-The main purpose of this project was to understand the mechanics of a GPT-style model by implementing the important components manually:
-
-> **Attention is not magic — it is learned projections, similarity scores, masking, weighted aggregation, nonlinear transformation, and optimization repeated over many examples.**
+The main purpose of this project was to understand the mechanics of a GPT-style model by implementing the important components manually.
